@@ -17,7 +17,7 @@ def main():
   # Start a new wandb run to track this script.
   run = wandb.init(
     # Set the wandb project where this run will be logged.
-    entity="dani-meme",
+    entity="s346213-polito",
     project="MLDL_lab3",
     name="Experiment_1",
     # Track hyperparameters and run metadata.
