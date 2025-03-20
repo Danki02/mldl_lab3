@@ -10,7 +10,7 @@ import torch.optim as optim
 
 def main():
 
-  wandb.login(key=)
+  wandb.login(key="053a462c27a74a38077757e40bb93b5051ec6dec")
 
   num_epochs = input("Insert number of epochs:")
 
